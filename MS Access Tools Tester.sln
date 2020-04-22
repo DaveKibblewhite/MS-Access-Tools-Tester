@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MS Access Tools Tester", "MS Access Tools Tester\MS Access Tools Tester.vbproj", "{8AFAFD03-1F91-4F39-A565-D69B31C46BE8}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_MS Access Tools Tester", "MS Access Tools Tester\_MS Access Tools Tester.vbproj", "{8AFAFD03-1F91-4F39-A565-D69B31C46BE8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Access Tools", "..\..\Class Librarys\Access Tools\Access Tools\Access Tools\Access Tools.vbproj", "{2427F230-1396-45A6-BA3D-BBAB8A543F21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8AFAFD03-1F91-4F39-A565-D69B31C46BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AFAFD03-1F91-4F39-A565-D69B31C46BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AFAFD03-1F91-4F39-A565-D69B31C46BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2427F230-1396-45A6-BA3D-BBAB8A543F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2427F230-1396-45A6-BA3D-BBAB8A543F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2427F230-1396-45A6-BA3D-BBAB8A543F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2427F230-1396-45A6-BA3D-BBAB8A543F21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
